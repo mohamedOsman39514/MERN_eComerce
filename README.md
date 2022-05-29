@@ -1,2 +1,2 @@
-# MERN_eComerce
+# eCommerce
  
